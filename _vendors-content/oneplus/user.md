@@ -27,7 +27,7 @@ This is however, not 100%. You may have to check system settings every once in a
 
 - Turn off **System Settings > Apps > Gear Icon > Special Access > Battery Optimization**.
 <br>
-<small>**WARNING:** Recently, OnePlus phones started reverting this setting randomly for random apps. So if you set it to be *not optimized*, the next day it may be back to *optimized*. 
+<small>**WARNING:** Recently, OnePlus phones started reverting thiis setting randomly for random apps. So if you set it to be *not optimized*, the next day it may be back to *optimized*. 
 <br>
 To avoid the system from automatically reverting the *not optimized* setting, you must also lock the app into the 'Recent App' list; see the solution above or [here](https://forum.xda-developers.com/showpost.php?p=78588761&postcount=7).
 <br>
